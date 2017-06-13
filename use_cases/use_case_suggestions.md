@@ -1,4 +1,4 @@
-#1 Suggestions for use cases
+# Suggestions for use cases
 
 * Log in
 
