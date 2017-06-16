@@ -44,13 +44,15 @@
 
 ---
 
-+ **Start a new group chat thread**
++ **Start a new chat thread**
 
 ---
 
-+ **Delete a message**
++ **Add a friend to chat thread**
 
-    Obviously only messages that the user has sent.
+---
+
++ **Leave a chat thread**
 
 ---
 
@@ -58,6 +60,14 @@
 
     Remove a chat thread from the user's account.
 
+---
+
++ **Accept/Block/Ignore message from person which is not a friend**
+    
+    - Accept accepts that the user receives this and future messages from the sender.
+    - Block rejects the message and blocks the sender from sending future messages.
+    - Ignore rejects the message but does not block the sender from sending future messages.
+    
 ---
 
 + **Send a message with emojis**
