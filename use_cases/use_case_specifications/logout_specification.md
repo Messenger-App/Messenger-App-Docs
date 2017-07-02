@@ -1,7 +1,5 @@
 # Use case specification: Log out
 
-*Author: Daniel Alm Grundström*
-
 *Date: 2017-07-01*
 
 ## 1. Description

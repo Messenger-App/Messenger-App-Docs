@@ -1,7 +1,5 @@
 # Use case specification: Login
 
-*Author: Caroline Nilsson*
-
 *Date: 2017-06-30*
 
 ## 1. Description
