@@ -1,28 +1,20 @@
-# Use case specification: [Use case]
+# Use case specification: Add Friend To Chat Thread
 
-*Date: [YYYY-MM-DD]*
+*Date: [2017-08-30]*
 
 ## 1. Description
 
-  [Brief description of the use case]
+  The specification describes how a user goes about adding a friend to an existing chat thread.
 
 ## 2. Basic Flow of Events
 
-  [The use case begins when...]
+  The use case begins when the user accesses a chat thread..
 
-  1. [Describe first event]
-  2. ...
-  5. ...
-  6. The use case ends
+  1. The user clicks on the "add friend" button.
+  2. User is redirected to add friend section (popup?).
+  3. User enters name of friend and clicks desired friend.
+  4. Friend is added to chat thread.
+  5. The use case ends.
 
-## 3. Alternative Flows
-
-### 3.1 [Name of alternative flow]
-  [Describe at what step the flow starts and what the user does]
-
-  1. [Describe the events]
-  2. ...
-  3. The use case resumes at step [where the use case resumes in the Basic Flow].
-
-## 4. Post-conditions
-  [What needs to happen for the use case to be successful]
+## 3. Post-conditions
+  The desired friend is added to the chat thread.
